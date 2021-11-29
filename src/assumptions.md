@@ -6,4 +6,4 @@
 * Names do not contain any numbers
 * When the last user leaves the channel, nothing happens
 * When the last owner leaves the channel, nothing happens
-* When user gives img_url to update profile picture, assumes link is valid and exists
+* When user gives img_url to update profile picture, assumes link is valid and exists.
